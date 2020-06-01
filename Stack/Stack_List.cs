@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Stack_Implementation__List_
 {
-    class Stack<T>
+    class Stack<T> // LIFO
     {
         List<T> array; // List that's basically our Stack
 
