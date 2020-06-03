@@ -60,7 +60,7 @@ namespace BinarySearchTree
             Node<T> currentNode = this.root; // We start from the root
             string result = string.Empty;
 
-            while (currentNode != null) // Until 
+            while (currentNode != null)
                 // If value < current.value
                 if (Comparer<T>.Default.Compare(value, currentNode.value) < 0) { // LEFT
                     currentNode = currentNode.left;
