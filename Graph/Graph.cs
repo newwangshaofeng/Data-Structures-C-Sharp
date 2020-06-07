@@ -29,7 +29,7 @@ namespace Graph_Implementation
             this.numberOfNodes++;
         }
 
-        // Add a connection (Vertice/Edge) between two Nodes(Vertexes)
+        // Add a connection (Vertice/Edge) between two Nodes/Vertexes
         public void AddEdge(T node1, T node2)
         {
             ((List<T>)this.adjacentList[node1]).Add(node2);
