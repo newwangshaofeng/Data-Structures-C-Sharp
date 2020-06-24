@@ -1,6 +1,6 @@
 using System;
 
-namespace DataStructures_Extra_
+namespace DoublyLinkedList
 {
     class DoublyLinkedList<T>
     {
