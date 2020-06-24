@@ -1,6 +1,6 @@
-namespace DataStructures_Extra_
+namespace DoublyLinkedList
 {
-    // Node of the Linked list / Chain
+    // Node of the Doubly Linked list / Chain
     class Node<T>
     {
         // Member variables ~~~~~~~~~~~
