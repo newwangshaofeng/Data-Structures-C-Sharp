@@ -30,7 +30,7 @@ namespace DoublyLinkedList
 
             // Output the whole chain
             myList.DisplayChain();
-            myList.DisplayReverseChain();
+            myList.DisplayReverseChain(); 
         }
     }
 }
