@@ -23,7 +23,7 @@ namespace DoublyLinkedList
         // Getter for Value
         public T Value { get { return this.value; } }
 
-        // Getter for next and previous nodes
+        // Getters and setters for next and previous nodes
         public Node<T> Next 
         { 
             get { return this.next; }
