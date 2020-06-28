@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DataStructures_Extra_
+namespace MaxHeap
 {
     class MaxHeap<T>
     {
