@@ -4,4 +4,4 @@ This repository was created to keep my implementations of different Data Structu
 
 
 
-Note: If you find any bugs in the code or have any doubts regarding the codes feel free to raise an issue or a PR.
+Note: If you find any bugs in the code or have any doubts regarding the codes feel free to raise an issue.
